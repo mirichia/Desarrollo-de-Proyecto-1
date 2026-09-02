@@ -1,0 +1,6 @@
+{
+  "name": "PAQRAP - Sistema Logístico",
+  "description": "Prototipo de alta fidelidad para el sistema logístico PAQRAP con simulación 5D multimodal, gestión de flota, incidencias y replanificación inteligente.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
